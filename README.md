@@ -17,6 +17,7 @@ This repository contains the code and setup details for a **TT04 Intelligent Rob
 - [Code Overview](#code-overview)
 - [Project Gallery](#project-gallery)
 - [Future Improvements](#future-improvements)
+- [IR remote and line follower to come]
 - [License](#license)
 
 ## Introduction
@@ -52,7 +53,7 @@ This project demonstrates how to integrate the TT04 chassis with a **Seeed Studi
 - **Size:** 135mm x 75mm x 35mm (5.31" x 2.95" x 1.38")
 
 ### TT DC Motor Parameters
-- **Voltage:** 3V-6V (6V recommended)
+- **Voltage:** 5V-9V (9V recommended)
 - **Reduction ratio:** 48:1
 - **No-load current:** ≤250mA at 6V
 - **Speed:** 240±10% RPM at 6V, 110±10% RPM at 3V
@@ -71,8 +72,11 @@ The following components are included in the TT04 Robot Tank Kit:
 
 Additional components used in this project:
 - **Microcontroller:** Seeed Studio XIAO SAMD21
-- **Battery pack:** 6V power supply
+- **Motor power:** 9V power supply
+- **Microcontroller power:** 3.3V LiPo power supply
+- **USB Type C Pigtail 2 wire left right direction:** 22AWG 5V 3A with quick wire cable connector
 - **Sensors:** Ultrasonic sensor (e.g., HC-SR04)
+- **Read and Black wire:** Male to female (connects to TT04 motors)
 
 ---
 
@@ -114,6 +118,7 @@ The included code performs the following functions:
 
 ## Project Gallery
 ![Assembled Robot Chassis] <img width="540" alt="Crawler Tank Robot" src="https://github.com/user-attachments/assets/5e87f4af-6951-4efb-a721-8e36f26982c8">
+
 ![Robot in Action] Find it on IG @bits4bots
 
 ---
