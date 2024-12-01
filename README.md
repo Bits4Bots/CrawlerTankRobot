@@ -118,10 +118,7 @@ The included code performs the following functions:
 ---
 
 ## Project Gallery
-![Assembled Robot Chassis] <img width="540" alt="Crawler Tank Robot" src="https://github.com/user-attachments/assets/5e87f4af-6951-4efb-a721-8e36f26982c8">
-
-![Robot in Action] Find it on IG @bits4bots
-
+<img width="540" alt="Crawler Tank Robot" src="https://github.com/user-attachments/assets/5e87f4af-6951-4efb-a721-8e36f26982c8">
 ---
 
 ## Future Improvements
