@@ -46,14 +46,14 @@ This project demonstrates how to integrate the TT04 chassis with a **Seeed Studi
 - **Size:** 193mm x 163mm x 60mm (7.6" x 6.4" x 2.4")
 - **Crawler material:** Wear-resistant engineering plastic
 - **Carrying capacity:** Up to 3kg
-- **Motor type:** TT DC motor (4pcs)
+- **Motor type:** TT DC motor (2pcs)
 
 ### Metal Frame Parameters
-- **Material:** Sturdy metal
+- **Material:** Sturdy painted metal
 - **Size:** 135mm x 75mm x 35mm (5.31" x 2.95" x 1.38")
 
 ### TT DC Motor Parameters
-- **Voltage:** 5V-9V (9V recommended)
+- **Voltage:** 5V-9V (9V recommended) 
 - **Reduction ratio:** 48:1
 - **No-load current:** ≤250mA at 6V
 - **Speed:** 240±10% RPM at 6V, 110±10% RPM at 3V
@@ -67,11 +67,12 @@ The following components are included in the TT04 Robot Tank Kit:
 - **2x Plastic driving wheels**
 - **2x Plastic bearing wheels**
 - **2x Engineering plastic tracks**
-- **4x TT DC motors with encoders**
+- **2x TT DC motors with encoders**
 - **1x Screw kit**
 
 Additional components used in this project:
 - **Microcontroller:** Seeed Studio XIAO SAMD21
+- **L9110S Motor Drive Module:** 4 channel https://www.elecrow.com/download/datasheet-l9110.pdf?srsltid=AfmBOoqE69PazkTQht20XIEW7v4UrVvrOmmUAIUCcb0Mb5iW8Gpsdj1r
 - **Motor power:** 9V power supply
 - **Microcontroller power:** 3.3V LiPo power supply
 - **USB Type C Pigtail 2 wire left right direction:** 22AWG 5V 3A with quick wire cable connector
